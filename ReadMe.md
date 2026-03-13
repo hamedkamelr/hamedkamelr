@@ -5,7 +5,7 @@
 **IT Specialist · AI & Automation Enthusiast · Greater Brisbane, QLD**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamedkamel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-020b18?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://github.com/hamedkamelr/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-020b18?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://hamedkamelr.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamed.kamel35@gmail.com)
 
 </div>
